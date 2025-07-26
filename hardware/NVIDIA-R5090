@@ -4,8 +4,8 @@ MaxBlockDimY: 1024
 MaxBlockDimZ: 64
 MaxSharedMemoryPerBlock: 49152
 WarpSize: 32
-ClockRate: 1410000
-MultiProcessorCount: 108
-ComputeCapabilityMajor: 8
+ClockRate: 2407000
+MultiProcessorCount: 170
+ComputeCapabilityMajor: 12
 ComputeCapabilityMinor: 0
 MaxRegistersPerBlock: 65536
